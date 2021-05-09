@@ -1,3 +1,3 @@
 # Personal-porfolio
-Personal porfolio using pure css and html
+Build a Personal Porfolio Page -Responsive Web Design Projects -freecodecamp.org
 
